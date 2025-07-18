@@ -15,25 +15,15 @@ To move customers beyond point‑in‑time audits, Fortreum created **XRAMP**, a
 
 ---
 
-### 🎓 My Certifications
-- **ISC²:** CISSP  
-- **ISACA:** CISA  
-- **A2LA:** Baltimore Cyber Range Cybersecurity Technical Proficiency  
-- **EC‑Council:** CEH  
-- **CompTIA:** Security+ CE  
-- **AWS:** Solutions Architect – Associate  
-- **Google Cloud:** Professional Cloud Security Engineer  
-- **Oracle:** Autonomous DB Cloud Specialist · OCI Architect Associate · OCI Foundations Associate  
-- **Microsoft Azure:** Security Engineer Associate (AZ‑500)  
-- **Cloud Security Alliance:** CCSK v4  
-- **Offensive Security:** OSCP  
-- **TCM Security:** PNPT  
-- **Altered Security:** CRTP · CARTP  
-- **PWNED Labs:** Microsoft Cloud Red Team Expert · AWS Red Team Expert  
-- **Zero Point Security:** CRTO · CRTL  
-- **Hack The Box:** HTB CBBH 
-- **HackTricks:** Google Cloud Red Team Expert · AWS Red Team Expert  
-- **SecOps Group:** Certified AI‑ML Pentester
+### 🎓 Stuff I Got For Clicking Buttons
+
+
+![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
+![2](https://github.com/user-attachments/assets/f9aada99-27e5-43f6-84fe-a8fdf8f63508)
+![3](https://github.com/user-attachments/assets/4a3d9c52-77cf-43b4-902c-6d8a9ce57c37)
+
+
+<a href="https://app.hackthebox.com/profile/339226"> <img src="https://www.hackthebox.com/badge/image/339226"></a>
 
 ---
 
