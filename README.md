@@ -1,21 +1,24 @@
-<!-- Profile README for Ethan Troy – Senior Consultant @ Fortreum LLC -->
+<!-- Profile README for Ethan Troy – Principal @ Fortreum LLC -->
 
-<h1 align="center">Hi, I’m Ethan Troy 👋</h1>
+<h1 align="center">Hi, I'm Ethan Troy 👋</h1>
 <p align="center">
-  <em>Senior Consultant @ <a href="https://fortreum.com">Fortreum LLC</a></em>
+  <em>Principal @ <a href="https://fortreum.com">Fortreum LLC</a></em>
+</p>
+<p align="center">
+  Cloud security, GRC engineering, and AI/ML security.
 </p>
 
 ---
 
-### 💼 About Fortreum  
-Fortreum is an independent firm that **specializes in audit, advisory, and technical testing services for highly regulated industries** such as government, healthcare, and financial services. 
+### 💼 About Fortreum
+Fortreum is an independent firm that **specializes in audit, advisory, and technical testing services for highly regulated industries** such as government, healthcare, and financial services.
 Our mission is to **simplify cloud‑security and compliance requirements so clients can accelerate U.S. public‑sector and commercial growth**.
 To move customers beyond point‑in‑time audits, Fortreum created **XRAMP**, a continuous testing framework that normalizes FedRAMP and other regulatory assessments, reducing audit fatigue and improving security assurance.
-  
+
 
 ---
 
-### 🎓 Stuff I Got For Clicking Buttons
+### 🎓 Stuff I Got For Clicking Buttons
 
 
 ![1](https://github.com/user-attachments/assets/c9932529-2d61-4dc4-96b1-9d3c5e263c85)
@@ -27,7 +30,6 @@ To move customers beyond point‑in‑time audits, Fortreum created **XRAMP**, a
 
 ---
 
-### 📬 Contact Me
- **Email:** <etroy@fortreum.com>  
-
+### 📬 Contact Me
+ **Email:** <etroy@fortreum.com>
 
