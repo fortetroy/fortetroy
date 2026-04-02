@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ethan Troy 👋</h1>
 <p align="center">
-  <strong>This account has moved → <a href="https://github.com/ethanolivertroy">github.com/ethanolivertroy</a></strong>
+  <strong>This account is no longer active. Find me at <a href="https://github.com/ethanolivertroy">@ethanolivertroy</a></strong>
 </p>
 <p align="center">
   Cloud security, GRC engineering, and AI/ML security.
