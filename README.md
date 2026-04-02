@@ -24,5 +24,6 @@
 
 ### 📬 Find me at
 **GitHub:** <a href="https://github.com/ethanolivertroy">@ethanolivertroy</a><br>
-**Web:** <a href="https://ethantroy.dev">ethantroy.dev</a>
+**Web:** <a href="https://ethantroy.dev">ethantroy.dev</a><br>
+**LinkedIn:** <a href="https://www.linkedin.com/in/ethantroy/">ethantroy</a>
 
